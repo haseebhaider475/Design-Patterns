@@ -7,7 +7,7 @@ package adapter.pattern;
 
 /**
  *
- * @author imran
+ * @author haseeb
  */
 public class AdapterPattern {
 
