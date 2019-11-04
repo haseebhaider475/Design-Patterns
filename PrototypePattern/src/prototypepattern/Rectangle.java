@@ -7,7 +7,7 @@ package prototypepattern;
 
 /**
  *
- * @author imran
+ * @author haseeb
  */
 public class Rectangle extends Shape{
     public Rectangle(){
