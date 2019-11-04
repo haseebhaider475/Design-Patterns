@@ -7,7 +7,7 @@ package testchain;
 
 /**
  *
- * @author imran
+ * @author haseeb
  */
 public class ZeroProcessor implements Chain{
     private Chain nextInChain; 
