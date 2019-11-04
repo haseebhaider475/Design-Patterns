@@ -7,7 +7,7 @@ package builder.pattern;
 
 /**
  *
- * @author imran
+ * @author haseeb
  */
 public class Sony extends Company{
      public int price(){   
