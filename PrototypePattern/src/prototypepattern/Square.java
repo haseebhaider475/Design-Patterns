@@ -7,7 +7,7 @@ package prototypepattern;
 
 /**
  *
- * @author imran
+ * @author haseeb
  */
 public class Square extends Shape {
     public Square(){
