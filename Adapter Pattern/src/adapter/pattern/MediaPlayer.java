@@ -7,7 +7,7 @@ package adapter.pattern;
 
 /**
  *
- * @author imran
+ * @author haseeb
  */
 public interface MediaPlayer {
     public void play(String audioType, String fileName);
