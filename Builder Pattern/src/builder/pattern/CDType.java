@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author imran
+ * @author haseeb
  */
 public class CDType {
                  private List<Packing> items=new ArrayList<Packing>();  
