@@ -7,7 +7,7 @@ package flyweight;
 
 /**
  *
- * @author imran
+ * @author haseeb
  */
 public class Circle implements Shape{
     private String color;
