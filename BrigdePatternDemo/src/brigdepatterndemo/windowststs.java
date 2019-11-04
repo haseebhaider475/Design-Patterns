@@ -7,7 +7,7 @@ package brigdepatterndemo;
 
 /**
  *
- * @author imran
+ * @author haseeb
  */
 public class windowststs implements Thread{
     public void categorytype() {
