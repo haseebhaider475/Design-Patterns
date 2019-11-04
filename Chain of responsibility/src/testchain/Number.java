@@ -7,7 +7,7 @@ package testchain;
 
 /**
  *
- * @author imran
+ * @author haseeb
  */
 public class Number {
     private int number; 
