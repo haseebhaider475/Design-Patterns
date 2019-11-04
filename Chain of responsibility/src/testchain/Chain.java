@@ -7,7 +7,7 @@ package testchain;
 
 /**
  *
- * @author imran
+ * @author haseeb
  */
 public interface Chain {
     public abstract void setNext(Chain nextInChain); 
