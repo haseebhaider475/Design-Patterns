@@ -7,7 +7,7 @@ package testchain;
 
 /**
  *
- * @author imran
+ * @author haseeb
  */
 public class NegativeProcessor implements Chain{
     private Chain nextInChain; 
