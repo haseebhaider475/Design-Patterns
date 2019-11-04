@@ -7,7 +7,7 @@ package templatepattern;
 
 /**
  *
- * @author fa16-bse-090
+ * @author haseeb
  */
 public class TemplatePatternDemo {
     
