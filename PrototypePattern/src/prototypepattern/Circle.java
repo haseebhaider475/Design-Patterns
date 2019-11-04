@@ -7,7 +7,7 @@ package prototypepattern;
 
 /**
  *
- * @author imran
+ * @author haseeb
  */
 public class Circle extends Shape{
     public Circle(){
