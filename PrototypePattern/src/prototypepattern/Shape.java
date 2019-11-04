@@ -7,7 +7,7 @@ package prototypepattern;
 
 /**
  *
- * @author imran
+ * @author haseeb
  */
 public abstract class Shape implements Cloneable {
     private String id;
