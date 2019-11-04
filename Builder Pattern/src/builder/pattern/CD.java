@@ -7,7 +7,7 @@ package builder.pattern;
 
 /**
  *
- * @author imran
+ * @author haseeb
  */
 public abstract class CD implements Packing{
     public abstract String pack();
